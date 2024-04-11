@@ -6,3 +6,8 @@ This is the transfer learning repository. It contains source code of seminars, l
 
 - [Seminar](https://github.com/allseenn/transfer/tree/main/01.Seminar)
 - [Tasks](https://github.com/allseenn/transfer/tree/main/01.Tasks)
+
+## 2 Representation learning
+
+- [Seminar](https://github.com/allseenn/transfer/tree/main/02.Seminar)
+- [Tasks](https://github.com/allseenn/transfer/tree/main/02.Tasks)
