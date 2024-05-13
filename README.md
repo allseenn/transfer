@@ -12,7 +12,7 @@ This is the transfer learning repository. It contains source code of seminars, l
 - [Seminar](https://github.com/allseenn/transfer/tree/main/02.Seminar)
 - [Tasks](https://github.com/allseenn/transfer/tree/main/02.Tasks)
 
-## 3 Применение transfer learning
+## 3 Applying transfer learning
 
 - [Seminar](https://github.com/allseenn/transfer/tree/main/03.Seminar)
 - [Tasks](https://github.com/allseenn/transfer/tree/main/03.Tasks)
